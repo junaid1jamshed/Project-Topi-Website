@@ -1,0 +1,3 @@
+This website has been created using a w3schools.com template.
+This website or page to be honest :) is responsive and uses js css html and bootstrap.
+The webpage is incompelte and needs suplementory pages for the links peovided in the page.
